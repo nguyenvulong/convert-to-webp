@@ -1,5 +1,5 @@
 def main():
-    print("Hello from gif-to-webp-python!")
+    print("Check README.md")
 
 
 if __name__ == "__main__":
